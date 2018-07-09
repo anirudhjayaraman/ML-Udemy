@@ -6,7 +6,7 @@ Created on Sun Jun 24 13:21:33 2018
 """
 
 import os
-PATH = 'F:\\ML_Udemy\\Machine Learning A-Z Template Folder\\Part 2 - Regression\\Section 6 - Polynomial Regression\\Polynomial_Regression'
+PATH = 'F:\ML-Udemy\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 6 - Polynomial Regression\Polynomial_Regression'
 os.chdir(PATH)
 
 import pandas as pd
